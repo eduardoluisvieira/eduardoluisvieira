@@ -1,7 +1,7 @@
 - Especialista em integração de sistemas de automação industrial.
 - Interessado em aprendizado de Python e SQL para Ciência de Dados.
-- Pós graduando em Ciência de Dados pela Universidade Presbiteriana Mackenzie.
-- Colaborar com iniciativas de mineração de dados, machine learning e análises com uso de Python e SQL.
+- Pós graduando em Gestão de Negócios para a Indústria 4.0 pela FIA.
+- Colaborar com iniciativas de análise exploratórioa de dados com uso de Python e SQL.
 - eduardoluisvieira@gmail.com | https://www.linkedin.com/in/eduardoluisvieira/
 
 <!---
